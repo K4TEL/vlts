@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Sun Dec 23 22:36:19 2018"
+          srclang="en_US"
+          adminlang="en_US"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+  <body>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Compounding term [m]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Термін складного відсотка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cos</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Ціна:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Принциповий:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric point</seg></tuv>
+      <tuv xml:lang="uk"><seg>Формат числа</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Frac</seg></tuv>
+      <tuv xml:lang="uk"><seg>Африканський франк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Error</seg></tuv>
+      <tuv xml:lang="uk"><seg>Євро</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Add</seg></tuv>
+      <tuv xml:lang="uk"><seg>Додати [+]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sin</seg></tuv>
+      <tuv xml:lang="uk"><seg>Синус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>rate</seg></tuv>
+      <tuv xml:lang="uk"><seg>Скоротити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Початок групи [(]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Bin</seg></tuv>
+      <tuv xml:lang="uk"><seg>Двійковий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Oct</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вісімк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Rand</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коло</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sin[degrees] in [radians]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Знак[degrees] in [radians]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>And</seg></tuv>
+      <tuv xml:lang="uk"><seg>в</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cos</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Закрити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Fix</seg></tuv>
+      <tuv xml:lang="uk"><seg>Виправлено</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Калькулятор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Help</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Довідка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Basic mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Простий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Advanced mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Розширений</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Фінансовий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Contents</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Зміст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>De_greesunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s градусівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gr_adiansunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s радіанівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gr_adiansunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s градіанівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Pasteunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Персекиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s псunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Світлові рокиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s срunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Астрономічні одиниціunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s аоunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Морські миліunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s морська миляunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Миліunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s миunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кілометриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s кмunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>absunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кабеліunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s кбunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фатомиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s фтмunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>termunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Метриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>sydunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ярunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Футunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s фтunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>chs</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дюймиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>sinunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s дмunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Contentsunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Сантиметриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s смunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Міліметриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ммunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мікрометриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мкмunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Нанометриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гектариunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s гаunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>2 placesunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s акрівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратні метриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s м²unit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратні сантиметриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s см²unit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратні міліметриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мм²unit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кубічні метриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s м³unit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ansunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Галониunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s галunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Літриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>sqrtunit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s квunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>intunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пінтиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clearunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рокиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>intunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Хвилинunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>cosunit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Секундиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Об'єм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратні метри</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Error</seg></tuv>
+      <tuv xml:lang="uk"><seg>Помилка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sin</seg></tuv>
+      <tuv xml:lang="uk"><seg>Sin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>Sin-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>Sinh-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sine [K]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Синус [K]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cos</seg></tuv>
+      <tuv xml:lang="uk"><seg>Cos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>Cos-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cosine [J]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Косинус [J]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Tan</seg></tuv>
+      <tuv xml:lang="uk"><seg>Tan</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>Tan-1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Tangent [L]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тангенс [L]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic payment [P]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Регулярні платежі [P]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ln</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ln</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ex</seg></tuv>
+      <tuv xml:lang="uk"><seg>10x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Natural log [N]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Натуральний логарифм [N]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>e to the power of displayed value [{]</seg></tuv>
+      <tuv xml:lang="uk"><seg>e в степені показаного числа [{]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Base 10 log [G]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Десятковий логарифм [G]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>10 to the power of displayed value [}]</seg></tuv>
+      <tuv xml:lang="uk"><seg>10 у степені показаного числа [}]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Base 10 log [G]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Двійковий логарифм [H]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Raise displayed value to the power of y [y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Підносить відображуване значення у степінь y [^]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Abigail Brady &lt;morwen\@evilmagi_c\.org&gt; Bastien Nocera &lt;hadess\@hadess\.net&gt; Gareth Owen &lt;gowen72\@yahoo\.com&gt;</seg></tuv>
+      <tuv xml:lang="uk"><seg>Максим Дзюманенко &lt;dziumanenko\@gmail\.com&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator with financial and scientific modes.</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор з фінансовими і науковими функціями</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>C</seg></tuv>
+      <tuv xml:lang="uk"><seg>C</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>F</seg></tuv>
+      <tuv xml:lang="uk"><seg>F</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Error, cannot calculate cosine</seg></tuv>
+      <tuv xml:lang="uk"><seg>Помилка, не вдається обчислити косинус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Present value [p]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поточна вартість</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Straight-line depreciation [l]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рівномірне нарахування амортизації</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Амортизація за сумою років</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Quit the calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вийти з калькулятора</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Edit</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Правка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Copy selection</seg></tuv>
+      <tuv xml:lang="uk"><seg>Копіювати виділене</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Paste selection</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вставити виділене</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Insert ASCII value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вставка значення коду ASCII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Insert ASCII Value...</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Вставити значення коду ASCII...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show trailing zeroes</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати завершальні нулі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show _Trailing Zeroes</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати _завершальні нулі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show thousands separator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати розділювач тисячних</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show T_housands Separator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати розділювач _тисячних</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Регістри пам'яті</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show help contents</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показати зміст довідки</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show the About Gcalctool dialogue</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показати діалог "Про програму Gcalctool"</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set numeric base to binary (base 2)</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює двійкову базу числа (база 2)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Bin</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дві_йк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set numeric base to octal (base 8)</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює вісімкову базу числа (база 8)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Oct</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Вісімк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set numeric base to decimal (base 10)</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює десяткову базу числа (база 10)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Dec</seg></tuv>
+      <tuv xml:lang="uk"><seg>Де_сятк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set numeric base to hexadecimal (base 16)</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює шістнадцяткову базу числа (база 16)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>He_x</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Шістн</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set trigonometric type to degrees</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює режим тригонометричних функцій у градуси</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>De_grees</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Градуси</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set trigonometric type to gradians</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює режим тригонометричних функцій у гради</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gr_adians</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гр_ади</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set trigonometric type to radians</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює режим тригонометричних функцій у радіани</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Radians</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Радіани</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set display type to engineering format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює інженерний тип відображення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>E_ng</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ін_ж</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set display type to fixed-point format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює тип відображення з фіксованою комою</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Fix</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Фікс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set display type to scientific format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановлює науковий тип відображення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Sci</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Наук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set inverse option for trigonometric functions</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вибрати інверсні варіанти тригонометричних функцій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Inv</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Інв</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set hyperbolic option for trigonometric functions</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вибрати гіперболічні варіанти тригонометричних функцій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>H_yp</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гі_прб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Амортизація за сумою років [y]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Straight-line depreciation [l]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рівномірне нарахування амортизації [l]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic interest rate [T]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ставка відсотка за період [T]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Present value [p]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поточна вартість [p]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Майбутня сума [v]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Double-declining depreciation [d]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Подвійне нарахування амортизації [D]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Compounding term [m]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Термін складного відсотка [m]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Payment period [T]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Термін оплати [t]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>6</seg></tuv>
+      <tuv xml:lang="uk"><seg>63</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>1</seg></tuv>
+      <tuv xml:lang="uk"><seg>31</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>u32</seg></tuv>
+      <tuv xml:lang="uk"><seg>32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>7</seg></tuv>
+      <tuv xml:lang="uk"><seg>47</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>5</seg></tuv>
+      <tuv xml:lang="uk"><seg>15</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>User-defined functions [f]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Функції визначені користувачем [F]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Fun</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фнк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Constants [#]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Константи [#]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Con</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кнст</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Enter an exponential number [e]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ввести експоненціальне число [E]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Exp</seg></tuv>
+      <tuv xml:lang="uk"><seg>Exp</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Acc</seg></tuv>
+      <tuv xml:lang="uk"><seg>Точн</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Random number in the range 0.0 to 1.0 [?]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Випадкове число в діапазоні від 0.0 до 1.0 [?]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Rand</seg></tuv>
+      <tuv xml:lang="uk"><seg>Впдк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Factorial of displayed value [!]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Факторіал показаного числа [!]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x!</seg></tuv>
+      <tuv xml:lang="uk"><seg>x!</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit D</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра D [d]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>D</seg></tuv>
+      <tuv xml:lang="uk"><seg>D</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit E</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра E [e]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>E</seg></tuv>
+      <tuv xml:lang="uk"><seg>E</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit F</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра F [f]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit A</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра A [a]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>A</seg></tuv>
+      <tuv xml:lang="uk"><seg>A</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit B</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра B [b]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>B</seg></tuv>
+      <tuv xml:lang="uk"><seg>B</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit C</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцяткова цифра C [c]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise XNOR [n]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Побітне XNOR [n]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>32-bit unsigned integer value of display ([)</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вивести у вигляді 32-бітного беззнакового цілого ([)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>u32</seg></tuv>
+      <tuv xml:lang="uk"><seg>&amp;32</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise NOT [~]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Побітне NOT [~]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise XOR [^]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Бітова операція XOR [x]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise AND []</seg></tuv>
+      <tuv xml:lang="uk"><seg>Побітне AND []</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise XOR [^]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Бітова операція OR [_BAR_]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R</seg></tuv>
+      <tuv xml:lang="uk"><seg>OR</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>16-bit unsigned integer value of display (])</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вивести у вигляді 16-бітного беззнакового цілого (])</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>u16</seg></tuv>
+      <tuv xml:lang="uk"><seg>&amp;16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift displayed value 1-15 places to the left</seg></tuv>
+      <tuv xml:lang="uk"><seg>Здвинути значення на 1-15 позицій ліворуч [&lt;]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>&lt;</seg></tuv>
+      <tuv xml:lang="uk"><seg>&lt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>.</seg></tuv>
+      <tuv xml:lang="uk"><seg>,</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift left</seg></tuv>
+      <tuv xml:lang="uk"><seg>Здвинути ліворуч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift right</seg></tuv>
+      <tuv xml:lang="uk"><seg>Здвинути праворуч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Accuracy</seg></tuv>
+      <tuv xml:lang="uk"><seg>Точність</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>E to the x</seg></tuv>
+      <tuv xml:lang="uk"><seg>E у степені x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ten to the x</seg></tuv>
+      <tuv xml:lang="uk"><seg>Десять у степені x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>X to the y</seg></tuv>
+      <tuv xml:lang="uk"><seg>X в степені y</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>pi</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cleared display, prefix without an operator is not allowed</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дисплей очищений, префікс без оператора не допускається</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Malformed parenthesis expression</seg></tuv>
+      <tuv xml:lang="uk"><seg>Неправильний вираз з дужками</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: %s as next argument.</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: %s як наступний аргумент.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: base should be 2, 8, 10 or 16</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: база повинна бути 2, 8, 10 або 16</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: invalid display mode [%s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: неправильний режим відображення [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: invalid mode [%s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: неправильний режим [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: invalid trigonometric mode [%s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: неправильний тригонометричний режим [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: invalid syntax mode [%s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: неправильний синтаксичний режим [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Usage: %s: [-D] [-E] [-a accuracy]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Використання: %s: [-D] [-E] [-a точність]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Use Arithmetic Precedence</seg></tuv>
+      <tuv xml:lang="uk"><seg>Використовувати арифметичну точність</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Activated no operator precedence mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Активовано режим без старшинства операторів</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Activated expression mode with operator precedence</seg></tuv>
+      <tuv xml:lang="uk"><seg>Активовано режим зі старшинством операторів</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Розрахувати</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic payment [P]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Регулярні платежі:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Term</seg></tuv>
+      <tuv xml:lang="uk"><seg>Т.опл:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Inv</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Звор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Амортизація за сумою років [Y]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set accuracy from 0 to 9 numeric places [a]</seg></tuv>
+      <tuv xml:lang="uk"><seg>(Встановити точність від 0 до 9 числових позицій [A])</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bitwise XNOR [n]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Побітне XNOR [{]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Raise displayed value to the power of y [y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Усікання відображуваного значення до обраного розміру слова ([)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift displayed value 1-15 places to the right</seg></tuv>
+      <tuv xml:lang="uk"><seg>Здвинути значення на 1-15 позицій праворуч [&gt;]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>&gt;</seg></tuv>
+      <tuv xml:lang="uk"><seg>&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bksp</seg></tuv>
+      <tuv xml:lang="uk"><seg>Видл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Remove rightmost character from displayed value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Видаляє символ праворуч у відображуваному значенні [Backspace]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Backspace</seg></tuv>
+      <tuv xml:lang="uk"><seg>Повернутись</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Change sign [c]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Змінити знак [C]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Change sign [c]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Змінити знак</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clr</seg></tuv>
+      <tuv xml:lang="uk"><seg>Скас</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear displayed value and any partial calculation</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очищає відображуване значення та будь-які частково виконані операції [Shift Delete]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очистити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>CE</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очщ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear displayed value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очищає відображуване значення [Escape]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear entry</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очистити елемент</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>(</seg></tuv>
+      <tuv xml:lang="uk"><seg>(</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Start group of calculations</seg></tuv>
+      <tuv xml:lang="uk"><seg>Початок групи обчислень [(]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Left bracket</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ліва дужка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Reciprocal [r]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обернена величина [r]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Reciprocal [r]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обернена величина</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>1/x</seg></tuv>
+      <tuv xml:lang="uk"><seg>1/x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%</seg></tuv>
+      <tuv xml:lang="uk"><seg>%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Percentage</seg></tuv>
+      <tuv xml:lang="uk"><seg>Відсоток [%]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Percentage</seg></tuv>
+      <tuv xml:lang="uk"><seg>Відсоток</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>)</seg></tuv>
+      <tuv xml:lang="uk"><seg>)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>End group of calculations</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кінець групи обчислень [)]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Right bracket</seg></tuv>
+      <tuv xml:lang="uk"><seg>Права дужка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратний корінь [s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратний корінь</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Abs</seg></tuv>
+      <tuv xml:lang="uk"><seg>_BAR_x_BAR_</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Absolute value [u]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Абсолютне значення [u]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Absolute value [u]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Абсолютне значення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Frac</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дроб</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Fractional portion of displayed value [:]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дробова частина значення індикатора [:]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Fractional portion</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дробова частина</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Int</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ціл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Integer portion of displayed value [i]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ціла частина значення індикатора [i]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Integer portion</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ціла частина</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Exchange displayed value with memory register [X]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обміняти значення індикатора зі значенням у пам'яті [X]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Exchange with register</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обміняти значення з регістром</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Exch</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Retrieve memory register to display [R]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Викликати значення з пам'яті на індикатор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Retrieve from register</seg></tuv>
+      <tuv xml:lang="uk"><seg>Викликати значення з пам'яті на індикатор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Rcl</seg></tuv>
+      <tuv xml:lang="uk"><seg>Викл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Store displayed value in memory register [S]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Запам'ятати значення індикатора у пам'яті [S]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Store to register</seg></tuv>
+      <tuv xml:lang="uk"><seg>Регістри пам'яті</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sto</seg></tuv>
+      <tuv xml:lang="uk"><seg>Зап</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square [@]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадрат [@]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square [@]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадрат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>x2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>2</seg></tuv>
+      <tuv xml:lang="uk"><seg>x2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>4</seg></tuv>
+      <tuv xml:lang="uk"><seg>4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 4</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>7</seg></tuv>
+      <tuv xml:lang="uk"><seg>7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 7</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>8</seg></tuv>
+      <tuv xml:lang="uk"><seg>8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 8</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>9</seg></tuv>
+      <tuv xml:lang="uk"><seg>9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 9</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>5</seg></tuv>
+      <tuv xml:lang="uk"><seg>5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 5</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>6</seg></tuv>
+      <tuv xml:lang="uk"><seg>6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 6</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Divide</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поділити [/]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Divide</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поділити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>1</seg></tuv>
+      <tuv xml:lang="uk"><seg>1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 1</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>2</seg></tuv>
+      <tuv xml:lang="uk"><seg>2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 2</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 0</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 0</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric point</seg></tuv>
+      <tuv xml:lang="uk"><seg>Числова кома</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>=</seg></tuv>
+      <tuv xml:lang="uk"><seg>=</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculate result</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обчислити результат [=]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculate result</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обчислити результат</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>3</seg></tuv>
+      <tuv xml:lang="uk"><seg>3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 3</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цифра 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Multiply</seg></tuv>
+      <tuv xml:lang="uk"><seg>Помножити [*]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Multiply</seg></tuv>
+      <tuv xml:lang="uk"><seg>Помножити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Subtract</seg></tuv>
+      <tuv xml:lang="uk"><seg>Відняти [-]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Subtract</seg></tuv>
+      <tuv xml:lang="uk"><seg>Відняти</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>+</seg></tuv>
+      <tuv xml:lang="uk"><seg>+</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Add</seg></tuv>
+      <tuv xml:lang="uk"><seg>Додати</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>1 place</seg></tuv>
+      <tuv xml:lang="uk"><seg>_1 позицію</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>2 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_2 позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>3 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_3 позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>4 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_4 позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>5 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_5 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>6 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_6 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>7 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_7 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>8 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_8 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>9 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_9 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>10 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>10 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>11 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>11 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>12 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>12 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>13 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>13 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>14 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>14 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>15 places</seg></tuv>
+      <tuv xml:lang="uk"><seg>15 позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_0 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_0 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_1 significant place</seg></tuv>
+      <tuv xml:lang="uk"><seg>_1 значуща позиція</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_2 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_2 значущі позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_3 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_3 значущі позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_4 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_4 значущі позиції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_5 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_5 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_6 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_6 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_7 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_7 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_8 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_8 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_9 significant places</seg></tuv>
+      <tuv xml:lang="uk"><seg>_9 значущих позицій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory RegistersR0" is the abbreviation for "Register 0</seg></tuv>
+      <tuv xml:lang="uk"><seg>Регістри пам'ятіR0" is the abbreviation for "Register 0</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R1" is the abbreviation for "Register 1</seg></tuv>
+      <tuv xml:lang="uk"><seg>R0R1" is the abbreviation for "Register 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R2" is the abbreviation for "Register 2</seg></tuv>
+      <tuv xml:lang="uk"><seg>R1R2" is the abbreviation for "Register 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R3" is the abbreviation for "Register 3</seg></tuv>
+      <tuv xml:lang="uk"><seg>R2R3" is the abbreviation for "Register 3</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R4" is the abbreviation for "Register 4</seg></tuv>
+      <tuv xml:lang="uk"><seg>R3R4" is the abbreviation for "Register 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R5" is the abbreviation for "Register 5</seg></tuv>
+      <tuv xml:lang="uk"><seg>R4R5" is the abbreviation for "Register 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R6" is the abbreviation for "Register 6</seg></tuv>
+      <tuv xml:lang="uk"><seg>R5R6" is the abbreviation for "Register 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R7" is the abbreviation for "Register 7</seg></tuv>
+      <tuv xml:lang="uk"><seg>R6R7" is the abbreviation for "Register 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R8" is the abbreviation for "Register 8</seg></tuv>
+      <tuv xml:lang="uk"><seg>R7R8" is the abbreviation for "Register 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R9" is the abbreviation for "Register 9</seg></tuv>
+      <tuv xml:lang="uk"><seg>R8R9" is the abbreviation for "Register 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 0</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 1</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 4</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 5</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 6</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 7</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 8</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Memory Registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>регістр 9</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Edit Constants</seg></tuv>
+      <tuv xml:lang="uk"><seg>Редагування констант</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Click a _value or description to edit it:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Щоб відредагувати, натисніть на полі _значення або опису:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>All constant values are specified in the decimal numeric base.</seg></tuv>
+      <tuv xml:lang="uk"><seg>Примітка: Всі значення констант вказуються у десятковій системі числення.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Edit Constants...</seg></tuv>
+      <tuv xml:lang="uk"><seg>Редагувати константи...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Edit Functions...</seg></tuv>
+      <tuv xml:lang="uk"><seg>Редагувати функції...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Edit Functions</seg></tuv>
+      <tuv xml:lang="uk"><seg>Редагування функцій</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Insert ASCII Value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вставлення значення коду ASCII</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ch_aracter:</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Символ:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Insert</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Вставити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set Precision</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановити точність</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Significant _places:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Значущі _цифри:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Set</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Встановити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Accuracy</seg></tuv>
+      <tuv xml:lang="uk"><seg>Значення точності</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric 7</seg></tuv>
+      <tuv xml:lang="uk"><seg>Система числення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show _Trailing Zeroes</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати завершальні нулі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show T_housands Separator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати рзділювач тисячних</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show memory registers</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати регістри пам'яті</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Set trigonometric type to degrees</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тригонометричний тип</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>%s: accuracy should be in the range 0-%d</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s: точність повинна бути у межах 0-%d</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Malformed function</seg></tuv>
+      <tuv xml:lang="uk"><seg>Неправильна функція</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>No sane value to store</seg></tuv>
+      <tuv xml:lang="uk"><seg>Немає нормального значення для двійкового зсуву</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>No sane value to store</seg></tuv>
+      <tuv xml:lang="uk"><seg>Немає нормального значення для перетворення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>No sane value to store</seg></tuv>
+      <tuv xml:lang="uk"><seg>Немає нормального значення для зберігання</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Malformed expression</seg></tuv>
+      <tuv xml:lang="uk"><seg>Неправильний вираз</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор - Розширений</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор - Фінансовий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Scientific Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор - Науковий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Other (%d) ...</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Інша (%d) ...</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>sin</seg></tuv>
+      <tuv xml:lang="uk"><seg>sin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>arcsin</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>sinh</seg></tuv>
+      <tuv xml:lang="uk"><seg>sh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x2</seg></tuv>
+      <tuv xml:lang="uk"><seg>arsh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sine [K]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Синус [k]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sine [K]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Арксинус [K]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>cos</seg></tuv>
+      <tuv xml:lang="uk"><seg>cos</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>cosh</seg></tuv>
+      <tuv xml:lang="uk"><seg>ch</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cosine [J]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Косинус [j]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cosine [J]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Арккосинус [J]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>tan</seg></tuv>
+      <tuv xml:lang="uk"><seg>tg</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>tanh</seg></tuv>
+      <tuv xml:lang="uk"><seg>tgh</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Tangent [L]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тангенс [w]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Tangent [L]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Арктангенс [W]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic payment [P]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гіперболічний тангенс [w]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ln</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ln</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ex</seg></tuv>
+      <tuv xml:lang="uk"><seg>ex</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Natural log [N]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Натуральний логарифм [n]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>e to the power of displayed value [{]</seg></tuv>
+      <tuv xml:lang="uk"><seg>e в степені показаного числа [N]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>log</seg></tuv>
+      <tuv xml:lang="uk"><seg>Log</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>10x</seg></tuv>
+      <tuv xml:lang="uk"><seg>10x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Base 10 log [G]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Десятковий логарифм [g]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>10 to the power of displayed value [}]</seg></tuv>
+      <tuv xml:lang="uk"><seg>10 у степені показаного числа [G]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ex</seg></tuv>
+      <tuv xml:lang="uk"><seg>2x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Base 10 log [G]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Двійковий логарифм [h]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>e to the power of displayed value [{]</seg></tuv>
+      <tuv xml:lang="uk"><seg>e в степені показаного числа [H]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ex</seg></tuv>
+      <tuv xml:lang="uk"><seg>xy</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>ex</seg></tuv>
+      <tuv xml:lang="uk"><seg>x1/y</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Raise displayed value to the power of y [y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Підносить відображуване значення у степінь y [o]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Raise displayed value to the power of y [y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Підносить відображуване значення у степінь зворотньої величини y [O]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Abigail Brady &lt;morwen\@evilmagi_c\.org&gt; Bastien Nocera &lt;hadess\@hadess\.net&gt; Gareth Owen &lt;gowen72\@yahoo\.com&gt;</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кирило Полежаєв &lt;polezhajev\@ukr\.net&gt; Максим Дзюманенко &lt;dziumanenko\@gmail\.com&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gcalctool</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator with financial and scientific modes.</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор з фінансовими і науковими функціями.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>R</seg></tuv>
+      <tuv xml:lang="uk"><seg>R</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Paste</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вставити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>No.</seg></tuv>
+      <tuv xml:lang="uk"><seg>№</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Значення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Description</seg></tuv>
+      <tuv xml:lang="uk"><seg>Опис</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Negative X and non-integer Y not supported</seg></tuv>
+      <tuv xml:lang="uk"><seg>Від'ємні X з не цілими Y не підтримуються</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Kilometer-to-mile conversion factor</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коефіцієнт перетворення кілометрів у милі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>square root of 2</seg></tuv>
+      <tuv xml:lang="uk"><seg>квадратний корінь від 2</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Centimeter-to-inch conversion factor</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коефіцієнт перетворення сантиметрів у дюйми</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>degrees in a radian</seg></tuv>
+      <tuv xml:lang="uk"><seg>градусів у радіані</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>2 ^ 20</seg></tuv>
+      <tuv xml:lang="uk"><seg>2 ^ 20</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gram-to-ounce conversion factor</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коефіцієнт перетворення граму в унцію</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Kilojoule-to-British-thermal-unit conversion factor</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коефіцієнт перетворення кілоджоулів у британські термічні одиниці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cubic-centimeter-to-cubic-inch conversion factor</seg></tuv>
+      <tuv xml:lang="uk"><seg>Коефіцієнт перетворення куб. сантиметрів у куб. дюйми</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Compounding term [m]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Термін cкладного відсотка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Present value [p]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поточна _вартість:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic interest rate [T]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ставка відсотка за пе_ріод</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Майбутня сума:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Обчислити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Double-declining depreciation [d]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Подвійне нарахування амортизації</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Майбутня сума</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic payment [P]</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Регулярні платежі:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic payment [P]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Регулярні платежі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Term</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Т.опл:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Present value [p]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Поточна вартість:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Periodic interest rate [T]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ставка відсотка за період</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Straight-line depreciation [l]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Лінійна амортизація</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Амортизація Сума-Років-Цифр</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Payment period [T]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Термін оплати</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Майбутня _сума:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_View</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Вигляд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Scientific mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Науковий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Numeric point</seg></tuv>
+      <tuv xml:lang="uk"><seg>Числова кома [. або ,]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear displayed value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очищає дисплей [Escape]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Запам'ятати значення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Exponential</seg></tuv>
+      <tuv xml:lang="uk"><seg>Експонента</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Base 10 log [G]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Десятковий логарифм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Natural log [N]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Натуральний логарифм</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Absolute value [u]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Абсолютне значення [_BAR_]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Factorial</seg></tuv>
+      <tuv xml:lang="uk"><seg>Факторіал [!]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Factorial</seg></tuv>
+      <tuv xml:lang="uk"><seg>Факторіал</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Scientific mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Наукова експонента [Ctrl+E]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Scientific mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Наукова експонента</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Description</seg></tuv>
+      <tuv xml:lang="uk"><seg>Нижн інд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Description</seg></tuv>
+      <tuv xml:lang="uk"><seg>Верх інд</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Factorial</seg></tuv>
+      <tuv xml:lang="uk"><seg>Факторизація</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift right</seg></tuv>
+      <tuv xml:lang="uk"><seg>Зсув праворуч [&gt;]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift right</seg></tuv>
+      <tuv xml:lang="uk"><seg>Зсув праворуч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift left</seg></tuv>
+      <tuv xml:lang="uk"><seg>Зсув ліворуч [&lt;]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Shift left</seg></tuv>
+      <tuv xml:lang="uk"><seg>Зсув ліворуч</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Future value [v]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Округлити значення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Random number</seg></tuv>
+      <tuv xml:lang="uk"><seg>Випадкове число</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ch_aracter:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вставити символ</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sln</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Rate</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ставк</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Pv</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пот.варт</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Pmt</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рег.пл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Fv</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мсум</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>pmt</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квп</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ddb</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Ctrm</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тсв</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Syd</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ам.сум.рок</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Term</seg></tuv>
+      <tuv xml:lang="uk"><seg>Т.опл</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>De_grees</seg></tuv>
+      <tuv xml:lang="uk"><seg>Градуси</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Radians</seg></tuv>
+      <tuv xml:lang="uk"><seg>Радіани</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Gr_adians</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гради</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Scientific Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Науковий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Hexadecimal digit D</seg></tuv>
+      <tuv xml:lang="uk"><seg>Шістнадцятковий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show trailing zeroes</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати завершальні _нулі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show thousands separator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати розділювач _тисячних</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show T_housands Separator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Показувати роздільник тисячних</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>No sane value to store</seg></tuv>
+      <tuv xml:lang="uk"><seg>Немає нормального значення для побітового зсуву</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор — Розширений</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square [@]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Інверсія [Ctrl+I]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Корінь [Ctrl+S]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Insert ASCII Value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Змінна результату</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Фінансовий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>x!</seg></tuv>
+      <tuv xml:lang="uk"><seg>x</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Quit the calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Одиниці поточних обрахунків</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Edit Functions</seg></tuv>
+      <tuv xml:lang="uk"><seg>Додаткові функції</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square [@]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадрат [Ctrl+2]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square root [s]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратний корінь [Ctrl+R]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sine [K]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Синус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Cosine [J]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Косинус</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Tangent [L]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тангенс</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Integer portion</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цілий компонент</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Fractional portion</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дробовий компонент</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Clear displayed value</seg></tuv>
+      <tuv xml:lang="uk"><seg>Очистити екран [Escape]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фінансовий термін</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Сума цифр років амортизації</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Straight-line depreciation [l]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пряма лінійна амортизація</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>[degrees] in [radians]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Знак[degrees] in [radians]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Abigail Brady &lt;morwen\@evilmagi_c\.org&gt; Bastien Nocera &lt;hadess\@hadess\.net&gt; Gareth Owen &lt;gowen72\@yahoo\.com&gt;</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кирило Полежаєв &lt;polezhajev\@ukr\.net&gt; Максим Дзюманенко &lt;dziumanenko\@gmail\.com&gt; Daniel Korostil &lt;ted\.korostiled\@gmail\.com&gt;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Персекиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кабеліunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Метриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ярдиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ярunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дюймиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s дмunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Сантиметриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>Нанометриunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Акриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s акрівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Square [@]unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квадратні метриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Галониunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s лunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Квартиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s квunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пінтиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s птunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мілілітриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s млunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мікролітриunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мклunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тонниunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s тunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кілограмиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s кгunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фунтиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s фunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Унціїunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s унцunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Грамиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s гunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Рокиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s роківunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дніunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s днівunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Гидиниunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s годинunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Хвилинunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s хвилинаunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Секундиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s сunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мілісекундиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мсunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мікросекундиunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s мксunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Цельсіяunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s˚Cunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фаренгейтunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s˚Funit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Кельвінunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s˚Kunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-format</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ранкінunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s˚Runit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Description</seg></tuv>
+      <tuv xml:lang="uk"><seg>Тривалість</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Basic Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Простий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Advanced Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Розширений</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фінансовий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Про програму</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Help</seg></tuv>
+      <tuv xml:lang="uk"><seg>Довідка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Quit</seg></tuv>
+      <tuv xml:lang="uk"><seg>Вийти</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фінансові строки</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Sum-of-the years'-digits depreciation [Y]</seg></tuv>
+      <tuv xml:lang="uk"><seg>Амортизація суми чисел року</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Malformed expression</seg></tuv>
+      <tuv xml:lang="uk"><seg>Неправильний вираз на знаку «%s»</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Обчислення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ˚Cunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ˚Funit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s Kunit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>%s ˚Runit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Calculator</seg></tuv>
+      <tuv xml:lang="uk"><seg>Калькулятор GNOME</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_About</seg></tuv>
+      <tuv xml:lang="uk"><seg>Про програму</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Basic mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Простий режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Advanced mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Розширений режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Фінансовий режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>trunc", "trunc ", _("Truncate</seg></tuv>
+      <tuv xml:lang="uk"><seg>Дворозрядне доповненняtrunc", "trunc ", _("Truncate</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Quit</seg></tuv>
+      <tuv xml:lang="uk"><seg>Ви_йти</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unit-symbols</seg></tuv>
+      <tuv xml:lang="uk"><seg>unit-symbols</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Basic Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Простий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Advanced Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Розширений</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Financial Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Фінансовий</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>_Contents</seg></tuv>
+      <tuv xml:lang="uk"><seg>_Змістunit-format</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Basic Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Простий режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Advanced Mode</seg></tuv>
+      <tuv xml:lang="uk"><seg>Розширений режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Show only uninstalled packages</seg></tuv>
+      <tuv xml:lang="uk"><seg>команда для прибирання пакунків</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bad write position</seg></tuv>
+      <tuv xml:lang="uk"><seg>Недавно вживані програми</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Network address</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мережний режим</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Network address</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мережева адреса</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Network address</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мережна плата</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Arch:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пошук:</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bad write position</seg></tuv>
+      <tuv xml:lang="uk"><seg>Програми</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bad write position</seg></tuv>
+      <tuv xml:lang="uk"><seg>Улюблені програми</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Bad write position</seg></tuv>
+      <tuv xml:lang="uk"><seg>Мої документи</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>System</seg></tuv>
+      <tuv xml:lang="uk"><seg>Система</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Status</seg></tuv>
+      <tuv xml:lang="uk"><seg>Стан</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>File not found: {0}</seg></tuv>
+      <tuv xml:lang="uk"><seg>не знайдено ключ [%s]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>update available</seg></tuv>
+      <tuv xml:lang="uk"><seg>Недоступний</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Upgrade bundles</seg></tuv>
+      <tuv xml:lang="uk"><seg>Оновити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Installed:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Delete users</seg></tuv>
+      <tuv xml:lang="uk"><seg>Видалити</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>unknown</seg></tuv>
+      <tuv xml:lang="uk"><seg>Невідомо</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Install packages</seg></tuv>
+      <tuv xml:lang="uk"><seg>Встановити сирці</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Home folder</seg></tuv>
+      <tuv xml:lang="uk"><seg>ДокументHome folder</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Arch:</seg></tuv>
+      <tuv xml:lang="uk"><seg>Пошук</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>SSL connection canceled</seg></tuv>
+      <tuv xml:lang="uk"><seg>Спробу з’єднання SSL скасовано</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Got HTTP response: %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>Отримано відповідь HTTP: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Invalid cookie offered: %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>Запропоновано некоректну куку: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Unknown response from server</seg></tuv>
+      <tuv xml:lang="uk"><seg>Невідома відповідь сервера</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>general failure</seg></tuv>
+      <tuv xml:lang="uk"><seg>загальна помилка</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>connection not allowed by ruleset</seg></tuv>
+      <tuv xml:lang="uk"><seg>з’єднання заборонено набором правил</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>network unreachable</seg></tuv>
+      <tuv xml:lang="uk"><seg>мережа недоступна</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>host unreachable</seg></tuv>
+      <tuv xml:lang="uk"><seg>вузол недоступний</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>connection refused by destination host</seg></tuv>
+      <tuv xml:lang="uk"><seg>у з’єднанні відмовлено вузлом призначення</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>TTL expired</seg></tuv>
+      <tuv xml:lang="uk"><seg>Завершився строк дії TTL</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>command not supported / protocol error</seg></tuv>
+      <tuv xml:lang="uk"><seg>команда не підтримується / помилка у протоколі</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>address type not supported</seg></tuv>
+      <tuv xml:lang="uk"><seg>тип адреси не підтримується</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>no</seg></tuv>
+      <tuv xml:lang="uk"><seg>ні</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>yes</seg></tuv>
+      <tuv xml:lang="uk"><seg>так</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>SHA1 fingerprint: %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>Відбиток SHA1: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Failed to reconnect to host %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>Не вдалося повторно з’єднатися з вузлом %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>Proxy from libproxy: %s://%s:%d/</seg></tuv>
+      <tuv xml:lang="uk"><seg>Проксі від libproxy: %s://%s:%d/</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>statvfs: %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>statvfs: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>statfs: %s</seg></tuv>
+      <tuv xml:lang="uk"><seg>statfs: %s</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en_US"><seg>(script)</seg></tuv>
+      <tuv xml:lang="uk"><seg>(скрипт)</seg></tuv>
+    </tu>
+  </body>
+</tmx>

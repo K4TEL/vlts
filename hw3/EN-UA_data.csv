@@ -1,0 +1,620 @@
+en_US_text	uk_text	en_US_len	uk_len	diff_len
+Abigail Brady <morwen\@evilmagi_c\.org> Bastien Nocera <hadess\@hadess\.net> Gareth Owen <gowen72\@yahoo\.com>	Максим Дзюманенко <dziumanenko\@gmail\.com>	9	3	6
+Kilojoule-to-British-thermal-unit conversion factor	Коефіцієнт перетворення кілоджоулів у британські термічні одиниці	3	7	4
+Cubic-centimeter-to-cubic-inch conversion factor	Коефіцієнт перетворення куб. сантиметрів у куб. дюйми	3	7	4
+Clear displayed value and any partial calculation	Очищає відображуване значення та будь-які частково виконані операції [Shift Delete]	7	10	3
+Abigail Brady <morwen\@evilmagi_c\.org> Bastien Nocera <hadess\@hadess\.net> Gareth Owen <gowen72\@yahoo\.com>	Кирило Полежаєв <polezhajev\@ukr\.net> Максим Дзюманенко <dziumanenko\@gmail\.com>	9	6	3
+Set trigonometric type to degrees	Тригонометричний тип	5	2	3
+Numeric point	Числова кома [. або ,]	2	5	3
+Malformed expression	Неправильний вираз на знаку «%s»	2	5	3
+Retrieve from register	Викликати значення з пам'яті на індикатор	3	6	3
+unit-symbols	%s морська миляunit-symbols	1	3	2
+Hexadecimal digit D	Шістнадцятковий	3	1	2
+Cleared display, prefix without an operator is not allowed	Дисплей очищений, префікс без оператора не допускається	9	7	2
+Sum-of-the years'-digits depreciation [Y]	Амортизація Сума-Років-Цифр	4	2	2
+10 to the power of displayed value [}]	10 у степені показаного числа [}]	8	6	2
+e to the power of displayed value [{]	e в степені показаного числа [{]	8	6	2
+Set display type to engineering format	Встановлює інженерний тип відображення	6	4	2
+Calculator	Калькулятор - Розширений	1	3	2
+Base 10 log [G]	Десятковий логарифм	4	2	2
+Raise displayed value to the power of y [y]	Підносить відображуване значення у степінь y [^]	9	7	2
+Gram-to-ounce conversion factor	Коефіцієнт перетворення граму в унцію	3	5	2
+Calculator	Калькулятор - Фінансовий	1	3	2
+Centimeter-to-inch conversion factor	Коефіцієнт перетворення сантиметрів у дюйми	3	5	2
+Calculator	Калькулятор — Розширений	1	3	2
+Set display type to scientific format	Встановлює науковий тип відображення	6	4	2
+Raise displayed value to the power of y [y]	Підносить відображуване значення у степінь y [o]	9	7	2
+e to the power of displayed value [{]	e в степені показаного числа [H]	8	6	2
+Bad write position	Програми	3	1	2
+TTL expired	Завершився строк дії TTL	2	4	2
+Kilometer-to-mile conversion factor	Коефіцієнт перетворення кілометрів у милі	3	5	2
+10 to the power of displayed value [}]	10 у степені показаного числа [G]	8	6	2
+e to the power of displayed value [{]	e в степені показаного числа [N]	8	6	2
+unit-symbols	%s квunit-symbols	1	2	1
+unit-symbols	%s птunit-symbols	1	2	1
+Shift displayed value 1-15 places to the right	Здвинути значення на 1-15 позицій праворуч [>]	8	7	1
+Raise displayed value to the power of y [y]	Усікання відображуваного значення до обраного розміру слова ([)	9	8	1
+Tangent [L]	Тангенс	2	1	1
+Sum-of-the years'-digits depreciation [Y]	Амортизація за сумою років [Y]	4	5	1
+Shift displayed value 1-15 places to the left	Здвинути значення на 1-15 позицій ліворуч [<]	8	7	1
+Periodic payment [P]	Регулярні платежі:	3	2	1
+Activated expression mode with operator precedence	Активовано режим зі старшинством операторів	6	5	1
+unit-symbols	%s лunit-symbols	1	2	1
+unit-symbols	%s акрівunit-symbols	1	2	1
+unit-symbols	%s дмunit-symbols	1	2	1
+Malformed parenthesis expression	Неправильний вираз з дужками	3	4	1
+unit-symbols	%s ярunit-symbols	1	2	1
+unit-symbols	%s млunit-symbols	1	2	1
+Bitwise XOR [^]	Бітова операція XOR [x]	3	4	1
+Hexadecimal digit E	Шістнадцяткова цифра E [e]	3	4	1
+unit-symbols	%s мклunit-symbols	1	2	1
+User-defined functions [f]	Функції визначені користувачем [F]	3	4	1
+Set inverse option for trigonometric functions	Вибрати інверсні варіанти тригонометричних функцій	6	5	1
+unit-symbols	%s мсunit-symbols	1	2	1
+Set hyperbolic option for trigonometric functions	Вибрати гіперболічні варіанти тригонометричних функцій	6	5	1
+Sum-of-the years'-digits depreciation [Y]	Амортизація за сумою років [y]	4	5	1
+Straight-line depreciation [l]	Рівномірне нарахування амортизації [l]	3	4	1
+Periodic interest rate [T]	Ставка відсотка за період [T]	4	5	1
+unit-symbols	%s сunit-symbols	1	2	1
+Double-declining depreciation [d]	Подвійне нарахування амортизації [D]	3	4	1
+Compounding term [m]	Термін складного відсотка [m]	3	4	1
+unit-symbols	%s хвилинаunit-symbols	1	2	1
+unit-symbols	%s годинunit-symbols	1	2	1
+unit-symbols	%s днівunit-symbols	1	2	1
+unit-symbols	%s роківunit-symbols	1	2	1
+Hexadecimal digit C	Шістнадцяткова цифра C [c]	3	4	1
+unit-symbols	%s гunit-symbols	1	2	1
+Enter an exponential number [e]	Ввести експоненціальне число [E]	5	4	1
+unit-symbols	%s унцunit-symbols	1	2	1
+unit-symbols	%s фunit-symbols	1	2	1
+Factorial of displayed value [!]	Факторіал показаного числа [!]	5	4	1
+Hexadecimal digit D	Шістнадцяткова цифра D [d]	3	4	1
+unit-symbols	%s кгunit-symbols	1	2	1
+Sine [K]	Синус	2	1	1
+Hexadecimal digit F	Шістнадцяткова цифра F [f]	3	4	1
+Hexadecimal digit A	Шістнадцяткова цифра A [a]	3	4	1
+unit-symbols	%s тunit-symbols	1	2	1
+Hexadecimal digit B	Шістнадцяткова цифра B [b]	3	4	1
+Cosine [J]	Косинус	2	1	1
+No sane value to store	Немає нормального значення для побітового зсуву	5	6	1
+Remove rightmost character from displayed value	Видаляє символ праворуч у відображуваному значенні [Backspace]	6	7	1
+Future value [v]	_Майбутня сума:	3	2	1
+Calculate result	Обчислити результат [=]	2	3	1
+_Scientific mode	_Науковий	2	1	1
+Future value [v]	Майбутня _сума:	3	2	1
+Multiply	Помножити [*]	1	2	1
+Payment period [T]	Термін оплати	3	2	1
+Subtract	Відняти [-]	1	2	1
+Straight-line depreciation [l]	Лінійна амортизація	3	2	1
+Present value [p]	Поточна вартість:	3	2	1
+Periodic payment [P]	Регулярні платежі	3	2	1
+Periodic payment [P]	_Регулярні платежі:	3	2	1
+Future value [v]	Майбутня сума	3	2	1
+Present value [p]	Поточна _вартість:	3	2	1
+Change sign [c]	Змінити знак	3	2	1
+degrees in a radian	градусів у радіані	4	3	1
+Negative X and non-integer Y not supported	Від'ємні X з не цілими Y не підтримуються	7	8	1
+Base 10 log [G]	Двійковий логарифм [h]	4	3	1
+Base 10 log [G]	Десятковий логарифм [g]	4	3	1
+All constant values are specified in the decimal numeric base.	Примітка: Всі значення констант вказуються у десятковій системі числення.	10	9	1
+Insert ASCII Value	Вставлення значення коду ASCII	3	4	1
+Accuracy	Значення точності	1	2	1
+%s: accuracy should be in the range 0-%d	%s: точність повинна бути у межах 0-%d	8	7	1
+Calculator	Калькулятор [%s]	1	2	1
+No sane value to store	Немає нормального значення для двійкового зсуву	5	6	1
+Scientific Mode	Калькулятор - Науковий	2	3	1
+Future value [v]	Запам'ятати значення	3	2	1
+Natural log [N]	Натуральний логарифм	3	2	1
+Factorial	Факторіал [!]	1	2	1
+Divide	Поділити [/]	1	2	1
+Clear displayed value	Очищає відображуване значення [Escape]	3	4	1
+Financial mode	_Фінансовий	2	1	1
+Insert ASCII Value	Змінна результату	3	2	1
+Square root [s]	Корінь [Ctrl+S]	3	2	1
+Reciprocal [r]	Обернена величина [r]	2	3	1
+Percentage	Відсоток [%]	1	2	1
+Scientific Mode	Науковий	2	1	1
+Square root [s]	Квадратний корінь	3	2	1
+Absolute value [u]	Абсолютне значення	3	2	1
+Fractional portion of displayed value [:]	Дробова частина значення індикатора [:]	6	5	1
+Integer portion of displayed value [i]	Ціла частина значення індикатора [i]	6	5	1
+Exchange displayed value with memory register [X]	Обміняти значення індикатора зі значенням у пам'яті [X]	7	8	1
+Exchange with register	Обміняти значення з регістром	3	4	1
+Store displayed value in memory register [S]	Запам'ятати значення індикатора у пам'яті [S]	7	6	1
+Store to register	Регістри пам'яті	3	2	1
+Square [@]	Квадрат	2	1	1
+Ch_aracter:	Вставити символ	1	2	1
+Future value [v]	Округлити значення	3	2	1
+Shift left	Зсув ліворуч [<]	2	3	1
+Shift right	Зсув праворуч [>]	2	3	1
+Description	Верх інд	1	2	1
+Description	Нижн інд	1	2	1
+Scientific mode	Наукова експонента [Ctrl+E]	2	3	1
+unit-symbols	%s мксunit-symbols	1	2	1
+Bitwise XOR [^]	Бітова операція OR [_BAR_]	3	4	1
+unit-symbols	%s ˚Runit-symbols	1	2	1
+unit-symbols	%s миunit-symbols	1	2	1
+Basic Mode	_Простий	2	1	1
+unit-symbols	%s аоunit-symbols	1	2	1
+unit-format	Морські миліunit-format	1	2	1
+unit-symbols	%s мм²unit-symbols	1	2	1
+"trunc"", ""trunc "", _(""Truncate"	"Дворозрядне доповненняtrunc"", ""trunc "", _(""Truncate"	4	5	1
+unit-format	Квадратні міліметриunit-format	1	2	1
+command not supported / protocol error	команда не підтримується / помилка у протоколі	6	7	1
+unit-symbols	%s см²unit-symbols	1	2	1
+unit-format	Квадратні сантиметриunit-format	1	2	1
+Present value [p]	Поточна вартість	3	2	1
+unit-symbols	%s кмunit-symbols	1	2	1
+unit-symbols	%s м²unit-symbols	1	2	1
+Base 10 log [G]	Десятковий логарифм [G]	4	3	1
+Base 10 log [G]	Двійковий логарифм [H]	4	3	1
+_About	Про програму	1	2	1
+Calculator	Калькулятор GNOME	1	2	1
+SSL connection canceled	Спробу з’єднання SSL скасовано	3	4	1
+Square root [s]unit-format	Квадратні метриunit-format	3	2	1
+unit-format	Кубічні метриunit-format	1	2	1
+unit-symbols	%s м³unit-symbols	1	2	1
+sinunit-symbols	%s дмunit-symbols	1	2	1
+unit-format	Астрономічні одиниціunit-format	1	2	1
+unit-symbols	%s псunit-symbols	1	2	1
+Gr_adiansunit-symbols	%s градіанівunit-symbols	1	2	1
+Square root [s]	Квадратні метри	3	2	1
+unit-format	Світлові рокиunit-format	1	2	1
+Gr_adiansunit-symbols	%s радіанівunit-symbols	1	2	1
+De_greesunit-symbols	%s градусівunit-symbols	1	2	1
+unit-symbols	%s срunit-symbols	1	2	1
+Bad write position	Улюблені програми	3	2	1
+_Financial mode	_Фінансовий	2	1	1
+_Advanced mode	_Розширений	2	1	1
+sqrtunit-symbols	%s квunit-symbols	1	2	1
+_Basic mode	_Простий	2	1	1
+Financial Mode	_Фінансовий	2	1	1
+connection not allowed by ruleset	з’єднання заборонено набором правил	5	4	1
+Advanced Mode	_Розширений	2	1	1
+Bad write position	Мої документи	3	2	1
+unit-symbols	%s галunit-symbols	1	2	1
+Error, cannot calculate cosine	Помилка, не вдається обчислити косинус	4	5	1
+Unknown response from server	Невідома відповідь сервера	4	3	1
+unit-symbols	%s кбunit-symbols	1	2	1
+unit-symbols	%s мunit-symbols	1	2	1
+unit-symbols	%s Kunit-symbols	1	2	1
+Set numeric base to binary (base 2)	Встановлює двійкову базу числа (база 2)	7	6	1
+Upgrade bundles	Оновити	2	1	1
+sydunit-symbols	%s ярunit-symbols	1	2	1
+unit-symbols	%s ммunit-symbols	1	2	1
+Set numeric base to octal (base 8)	Встановлює вісімкову базу числа (база 8)	7	6	1
+Set numeric base to decimal (base 10)	Встановлює десяткову базу числа (база 10)	7	6	1
+unit-symbols	%s фтunit-symbols	1	2	1
+Set numeric base to hexadecimal (base 16)	Встановлює шістнадцяткову базу числа (база 16)	7	6	1
+unit-symbols	%s смunit-symbols	1	2	1
+Set trigonometric type to degrees	Встановлює режим тригонометричних функцій у градуси	5	6	1
+Add	Додати [+]	1	2	1
+Set trigonometric type to gradians	Встановлює режим тригонометричних функцій у гради	5	6	1
+Frac	Африканський франк	1	2	1
+Delete users	Видалити	2	1	1
+Set trigonometric type to radians	Встановлює режим тригонометричних функцій у радіани	5	6	1
+_Financial mode	_Принциповий:	2	1	1
+Advanced Mode	Розширений	2	1	1
+Basic Mode	Простий	2	1	1
+Financial Mode	Фінансовий	2	1	1
+Insert ASCII value	Вставка значення коду ASCII	3	4	1
+unit-symbols	%s мкмunit-symbols	1	2	1
+unit-symbols	%s ˚Funit-symbols	1	2	1
+update available	Недоступний	2	1	1
+unit-symbols	%s ˚Cunit-symbols	1	2	1
+Failed to reconnect to host %s	Не вдалося повторно з’єднатися з вузлом %s	6	7	1
+unit-symbols	%s гаunit-symbols	1	2	1
+Calculator	Про програму	1	2	1
+unit-symbols	%s фтмunit-symbols	1	2	1
+_Insert ASCII Value...	_Вставити значення коду ASCII...	3	4	1
+Double-declining depreciation [d]	Подвійне нарахування амортизації	3	3	0
+Arch:	Пошук	1	1	0
+Scientific mode	Наукова експонента	2	2	0
+_View	_Вигляд	1	1	0
+Clear displayed value	Очищає дисплей [Escape]	3	3	0
+Factorial	Факторіал	1	1	0
+Got HTTP response: %s	Отримано відповідь HTTP: %s	4	4	0
+Install packages	Встановити сирці	2	2	0
+Exponential	Експонента	1	1	0
+Home folder	ДокументHome folder	2	2	0
+Term	_Т.опл:	1	1	0
+Invalid cookie offered: %s	Запропоновано некоректну куку: %s	4	4	0
+Absolute value [u]	Абсолютне значення [_BAR_]	3	3	0
+Periodic interest rate [T]	Ставка відсотка за період	4	4	0
+unit-symbols	%s˚Cunit-symbols	1	1	0
+R	R	1	1	0
+Calculator	_Обчислити	1	1	0
+Periodic interest rate [T]	Ставка відсотка за пе_ріод	4	4	0
+ln	Ln	1	1	0
+Periodic payment [P]	Гіперболічний тангенс [w]	3	3	0
+Tangent [L]	Арктангенс [W]	2	2	0
+Tangent [L]	Тангенс [w]	2	2	0
+SHA1 fingerprint: %s	Відбиток SHA1: %s	3	3	0
+tanh	tgh	1	1	0
+tan	tg	1	1	0
+Cosine [J]	Арккосинус [J]	2	2	0
+Cosine [J]	Косинус [j]	2	2	0
+cosh	ch	1	1	0
+cos	cos	1	1	0
+Sine [K]	Арксинус [K]	2	2	0
+Sine [K]	Синус [k]	2	2	0
+x2	arsh	1	1	0
+Proxy from libproxy: %s://%s:%d/	Проксі від libproxy: %s://%s:%d/	4	4	0
+sinh	sh	1	1	0
+x2	arcsin	1	1	0
+sin	sin	1	1	0
+Other (%d) ...	_Інша (%d) ...	3	3	0
+statvfs: %s	statvfs: %s	2	2	0
+statfs: %s	statfs: %s	2	2	0
+ex	ex	1	1	0
+Natural log [N]	Натуральний логарифм [n]	3	3	0
+yes	так	1	1	0
+Gcalctool	Калькулятор	1	1	0
+Compounding term [m]	Термін cкладного відсотка	3	3	0
+general failure	загальна помилка	2	2	0
+2 ^ 20	2 ^ 20	3	3	0
+square root of 2	квадратний корінь від 2	4	4	0
+Description	Опис	1	1	0
+Value	Значення	1	1	0
+No.	№	1	1	0
+_Paste	Вставити	1	1	0
+Calculator with financial and scientific modes.	Калькулятор з фінансовими і науковими функціями.	6	6	0
+network unreachable	мережа недоступна	2	2	0
+log	Log	1	1	0
+Raise displayed value to the power of y [y]	Підносить відображуване значення у степінь зворотньої величини y [O]	9	9	0
+host unreachable	вузол недоступний	2	2	0
+ex	x1/y	1	1	0
+ex	xy	1	1	0
+connection refused by destination host	у з’єднанні відмовлено вузлом призначення	5	5	0
+ex	2x	1	1	0
+address type not supported	тип адреси не підтримується	4	4	0
+no	ні	1	1	0
+10x	10x	1	1	0
+unknown	Невідомо	1	1	0
+Syd	Ам.сум.рок	1	1	0
+Factorial	Факторизація	1	1	0
+unit-format	Кілограмиunit-format	1	1	0
+unit-format	Тонниunit-format	1	1	0
+unit-format	Мікролітриunit-format	1	1	0
+unit-format	Мілілітриunit-format	1	1	0
+unit-format	Пінтиunit-format	1	1	0
+unit-format	Квартиunit-format	1	1	0
+Basic mode	Простий режим	2	2	0
+Advanced mode	Розширений режим	2	2	0
+unit-format	Галониunit-format	1	1	0
+Square [@]unit-format	Квадратні метриunit-format	2	2	0
+Financial mode	Фінансовий режим	2	2	0
+unit-format	Акриunit-format	1	1	0
+unit-symbols	Нанометриunit-symbols	1	1	0
+unit-format	Сантиметриunit-format	1	1	0
+unit-format	Дюймиunit-format	1	1	0
+_Quit	Ви_йти	1	1	0
+unit-symbols	unit-symbols	1	1	0
+unit-format	Ярдиunit-format	1	1	0
+unit-format	Метриunit-format	1	1	0
+unit-format	Кабеліunit-format	1	1	0
+Calculator	Обчислення	1	1	0
+Sum-of-the years'-digits depreciation [Y]	Амортизація суми чисел року	4	4	0
+Abigail Brady <morwen\@evilmagi_c\.org> Bastien Nocera <hadess\@hadess\.net> Gareth Owen <gowen72\@yahoo\.com>	Кирило Полежаєв <polezhajev\@ukr\.net> Максим Дзюманенко <dziumanenko\@gmail\.com> Daniel Korostil <ted\.korostiled\@gmail\.com>	9	9	0
+unit-format	Фунтиunit-format	1	1	0
+unit-format	Фаренгейтunit-format	1	1	0
+unit-format	Мікросекундиunit-format	1	1	0
+unit-symbols	%s˚Funit-symbols	1	1	0
+unit-format	Кельвінunit-format	1	1	0
+unit-format	Мілісекундиunit-format	1	1	0
+unit-symbols	%s˚Kunit-symbols	1	1	0
+unit-format	Ранкінunit-format	1	1	0
+unit-format	Секундиunit-format	1	1	0
+unit-symbols	%s˚Runit-symbols	1	1	0
+unit-format	Хвилинunit-format	1	1	0
+Description	Тривалість	1	1	0
+unit-format	Гидиниunit-format	1	1	0
+unit-format	Дніunit-format	1	1	0
+unit-format	Рокиunit-format	1	1	0
+unit-format	Грамиunit-format	1	1	0
+_Help	Довідка	1	1	0
+unit-format	Унціїunit-format	1	1	0
+_Quit	Вийти	1	1	0
+Financial mode	Фінансові строки	2	2	0
+unit-format	Персекиunit-format	1	1	0
+[degrees] in [radians]	Знак[degrees] in [radians]	3	3	0
+Shift right	Зсув праворуч	2	2	0
+Show T_housands Separator	Показувати роздільник тисячних	3	3	0
+Show trailing zeroes	Показувати завершальні _нулі	3	3	0
+Gr_adians	Гради	1	1	0
+_Radians	Радіани	1	1	0
+De_grees	Градуси	1	1	0
+Term	Т.опл	1	1	0
+unit-format	Цельсіяunit-format	1	1	0
+Ctrm	Тсв	1	1	0
+Ddb	Пна	1	1	0
+Status	Стан	1	1	0
+pmt	Квп	1	1	0
+Fv	Мсум	1	1	0
+File not found: {0}	не знайдено ключ [%s]	4	4	0
+Pmt	Рег.пл	1	1	0
+Pv	Пот.варт	1	1	0
+Rate	Ставк	1	1	0
+Sln	Рна	1	1	0
+Random number	Випадкове число	2	2	0
+Installed:	Встановити	1	1	0
+Shift left	Зсув ліворуч	2	2	0
+Show thousands separator	Показувати розділювач _тисячних	3	3	0
+System	Система	1	1	0
+Straight-line depreciation [l]	Пряма лінійна амортизація	3	3	0
+Square [@]	Інверсія [Ctrl+I]	2	2	0
+Sum-of-the years'-digits depreciation [Y]	Сума цифр років амортизації	4	4	0
+Financial mode	Фінансовий термін	2	2	0
+Clear displayed value	Очистити екран [Escape]	3	3	0
+Fractional portion	Дробовий компонент	2	2	0
+_Contents	_Змістunit-format	1	1	0
+Integer portion	Цілий компонент	2	2	0
+Basic Mode	Простий режим	2	2	0
+Advanced Mode	Розширений режим	2	2	0
+Show only uninstalled packages	команда для прибирання пакунків	4	4	0
+Bad write position	Недавно вживані програми	3	3	0
+Network address	Мережний режим	2	2	0
+Square root [s]	Квадратний корінь [Ctrl+R]	3	3	0
+Square [@]	Квадрат [Ctrl+2]	2	2	0
+Network address	Мережева адреса	2	2	0
+Edit Functions	Додаткові функції	2	2	0
+Network address	Мережна плата	2	2	0
+Quit the calculator	Одиниці поточних обрахунків	3	3	0
+x!	x	1	1	0
+Arch:	Пошук:	1	1	0
+Compounding term [m]	Термін складного відсотка	3	3	0
+14 places	14 позицій	2	2	0
+Malformed expression	Неправильний вираз	2	2	0
+_Inv	_Інв	1	1	0
+Exp	Exp	1	1	0
+Con	Кнст	1	1	0
+Constants [#]	Константи [#]	2	2	0
+Fun	Фнк	1	1	0
+5	15	1	1	0
+7	47	1	1	0
+u32	32	1	1	0
+1	31	1	1	0
+6	63	1	1	0
+Payment period [T]	Термін оплати [t]	3	3	0
+Future value [v]	Майбутня сума [v]	3	3	0
+Present value [p]	Поточна вартість [p]	3	3	0
+H_yp	Гі_прб	1	1	0
+_Sci	_Наук	1	1	0
+Random number in the range 0.0 to 1.0 [?]	Випадкове число в діапазоні від 0.0 до 1.0 [?]	9	9	0
+_Fix	_Фікс	1	1	0
+Set display type to fixed-point format	Встановлює тип відображення з фіксованою комою	6	6	0
+E_ng	Ін_ж	1	1	0
+_Radians	_Радіани	1	1	0
+Gr_adians	Гр_ади	1	1	0
+De_grees	_Градуси	1	1	0
+He_x	_Шістн	1	1	0
+_Dec	Де_сятк	1	1	0
+_Oct	_Вісімк	1	1	0
+_Bin	Дві_йк	1	1	0
+Show the About Gcalctool dialogue	"Показати діалог ""Про програму Gcalctool"""	5	5	0
+Show help contents	Показати зміст довідки	3	3	0
+_Memory Registers	_Регістри пам'яті	2	2	0
+Acc	Точн	1	1	0
+Rand	Впдк	1	1	0
+Show thousands separator	Показувати розділювач тисячних	3	3	0
+Shift left	Здвинути ліворуч	2	2	0
+Usage: %s: [-D] [-E] [-a accuracy]	Використання: %s: [-D] [-E] [-a точність]	6	6	0
+%s: invalid syntax mode [%s]	%s: неправильний синтаксичний режим [%s]	5	5	0
+%s: invalid trigonometric mode [%s]	%s: неправильний тригонометричний режим [%s]	5	5	0
+%s: invalid mode [%s]	%s: неправильний режим [%s]	4	4	0
+%s: invalid display mode [%s]	%s: неправильний режим відображення [%s]	5	5	0
+%s: base should be 2, 8, 10 or 16	%s: база повинна бути 2, 8, 10 або 16	9	9	0
+%s: %s as next argument.	%s: %s як наступний аргумент.	5	5	0
+pi	Пі	1	1	0
+X to the y	X в степені y	4	4	0
+Ten to the x	Десять у степені x	4	4	0
+E to the x	E у степені x	4	4	0
+Accuracy	Точність	1	1	0
+Shift right	Здвинути праворуч	2	2	0
+.	,	1	1	0
+x!	x!	1	1	0
+<	<	1	1	0
+u16	&16	1	1	0
+16-bit unsigned integer value of display (])	Вивести у вигляді 16-бітного беззнакового цілого (])	7	7	0
+R	OR	1	1	0
+Bitwise AND []	Побітне AND []	3	3	0
+Bitwise NOT [~]	Побітне NOT [~]	3	3	0
+u32	&32	1	1	0
+32-bit unsigned integer value of display ([)	Вивести у вигляді 32-бітного беззнакового цілого ([)	7	7	0
+Bitwise XNOR [n]	Побітне XNOR [n]	3	3	0
+B	B	1	1	0
+A	A	1	1	0
+E	E	1	1	0
+D	D	1	1	0
+Show T_housands Separator	Показувати розділювач _тисячних	3	3	0
+Show _Trailing Zeroes	Показувати _завершальні нулі	3	3	0
+No sane value to store	Немає нормального значення для зберігання	5	5	0
+_Contents	_Зміст	1	1	0
+unit-format	Гектариunit-format	1	1	0
+unit-format	Нанометриunit-format	1	1	0
+unit-format	Мікрометриunit-format	1	1	0
+unit-format	Міліметриunit-format	1	1	0
+_Contentsunit-format	Сантиметриunit-format	1	1	0
+chs	Дюймиunit-format	1	1	0
+unit-format	Футunit-format	1	1	0
+termunit-format	Метриunit-format	1	1	0
+unit-format	Фатомиunit-format	1	1	0
+absunit-format	Кабеліunit-format	1	1	0
+unit-format	Кілометриunit-format	1	1	0
+unit-format	Миліunit-format	1	1	0
+_Pasteunit-format	Персекиunit-format	1	1	0
+_Help	_Довідка	1	1	0
+ansunit-format	Галониunit-format	1	1	0
+_Calculator	_Калькулятор	1	1	0
+_Fix	Виправлено	1	1	0
+Cos	_Закрити	1	1	0
+And	в	1	1	0
+Sin[degrees] in [radians]	Знак[degrees] in [radians]	3	3	0
+Rand	Коло	1	1	0
+_Oct	Вісімк	1	1	0
+_Bin	Двійковий	1	1	0
+Square root [s]	Початок групи [(]	3	3	0
+rate	Скоротити	1	1	0
+Sin	Синус	1	1	0
+Error	Євро	1	1	0
+Numeric point	Формат числа	2	2	0
+2 placesunit-symbols	%s акрівunit-symbols	2	2	0
+unit-format	Літриunit-format	1	1	0
+Show trailing zeroes	Показувати завершальні нулі	3	3	0
+Tangent [L]	Тангенс [L]	2	2	0
+Paste selection	Вставити виділене	2	2	0
+Copy selection	Копіювати виділене	2	2	0
+_Edit	_Правка	1	1	0
+Quit the calculator	Вийти з калькулятора	3	3	0
+Sum-of-the years'-digits depreciation [Y]	Амортизація за сумою років	4	4	0
+Straight-line depreciation [l]	Рівномірне нарахування амортизації	3	3	0
+F	F	1	1	0
+C	C	1	1	0
+Calculator with financial and scientific modes.	Калькулятор з фінансовими і науковими функціями	6	6	0
+Natural log [N]	Натуральний логарифм [N]	3	3	0
+ex	10x	1	1	0
+Ln	Ln	1	1	0
+Periodic payment [P]	Регулярні платежі [P]	3	3	0
+x2	Tan-1	1	1	0
+intunit-format	Пінтиunit-format	1	1	0
+Tan	Tan	1	1	0
+Cosine [J]	Косинус [J]	2	2	0
+x2	Cos-1	1	1	0
+Cos	Cos	1	1	0
+Sine [K]	Синус [K]	2	2	0
+x2	Sinh-1	1	1	0
+x2	Sin-1	1	1	0
+Sin	Sin	1	1	0
+Error	Помилка	1	1	0
+Value	Об'єм	1	1	0
+cosunit-format	Секундиunit-format	1	1	0
+intunit-format	Хвилинunit-format	1	1	0
+Clearunit-format	Рокиunit-format	1	1	0
+Use Arithmetic Precedence	Використовувати арифметичну точність	3	3	0
+Activated no operator precedence mode	Активовано режим без старшинства операторів	5	5	0
+Calculator	Розрахувати	1	1	0
+_0 significant places	_0 значущих позицій	3	3	0
+"R3"" is the abbreviation for ""Register 3"	"R2R3"" is the abbreviation for ""Register 3"	7	7	0
+"R2"" is the abbreviation for ""Register 2"	"R1R2"" is the abbreviation for ""Register 2"	7	7	0
+"R1"" is the abbreviation for ""Register 1"	"R0R1"" is the abbreviation for ""Register 1"	7	7	0
+"Memory RegistersR0"" is the abbreviation for ""Register 0"	"Регістри пам'ятіR0"" is the abbreviation for ""Register 0"	8	8	0
+_9 significant places	_9 значущих позицій	3	3	0
+_8 significant places	_8 значущих позицій	3	3	0
+_7 significant places	_7 значущих позицій	3	3	0
+_6 significant places	_6 значущих позицій	3	3	0
+_5 significant places	_5 значущих позицій	3	3	0
+_4 significant places	_4 значущі позиції	3	3	0
+_3 significant places	_3 значущі позиції	3	3	0
+_2 significant places	_2 значущі позиції	3	3	0
+_1 significant place	_1 значуща позиція	3	3	0
+15 places	15 позицій	2	2	0
+"R5"" is the abbreviation for ""Register 5"	"R4R5"" is the abbreviation for ""Register 5"	7	7	0
+Cos	_Ціна:	1	1	0
+13 places	13 позицій	2	2	0
+12 places	12 позицій	2	2	0
+11 places	11 позицій	2	2	0
+10 places	10 позицій	2	2	0
+9 places	_9 позицій	2	2	0
+8 places	_8 позицій	2	2	0
+7 places	_7 позицій	2	2	0
+6 places	_6 позицій	2	2	0
+5 places	_5 позицій	2	2	0
+4 places	_4 позиції	2	2	0
+3 places	_3 позиції	2	2	0
+2 places	_2 позиції	2	2	0
+"R4"" is the abbreviation for ""Register 4"	"R3R4"" is the abbreviation for ""Register 4"	7	7	0
+"R6"" is the abbreviation for ""Register 6"	"R5R6"" is the abbreviation for ""Register 6"	7	7	0
+Term	Т.опл:	1	1	0
+Edit Functions...	Редагувати функції...	2	2	0
+No sane value to store	Немає нормального значення для перетворення	5	5	0
+Malformed function	Неправильна функція	2	2	0
+Show memory registers	Показувати регістри пам'яті	3	3	0
+Show T_housands Separator	Показувати рзділювач тисячних	3	3	0
+Show _Trailing Zeroes	Показувати завершальні нулі	3	3	0
+Numeric 7	Система числення	2	2	0
+Calculator	Калькулятор	1	1	0
+_Set	_Встановити	1	1	0
+Significant _places:	Значущі _цифри:	2	2	0
+Set Precision	Встановити точність	2	2	0
+_Insert	_Вставити	1	1	0
+Ch_aracter:	_Символ:	1	1	0
+Edit Functions	Редагування функцій	2	2	0
+Edit Constants...	Редагувати константи...	2	2	0
+"R7"" is the abbreviation for ""Register 7"	"R6R7"" is the abbreviation for ""Register 7"	7	7	0
+Click a _value or description to edit it:	Щоб відредагувати, натисніть на полі _значення або опису:	8	8	0
+Edit Constants	Редагування констант	2	2	0
+Memory Registers	регістр 9	2	2	0
+Memory Registers	регістр 8	2	2	0
+Memory Registers	регістр 7	2	2	0
+Memory Registers	регістр 6	2	2	0
+Memory Registers	регістр 5	2	2	0
+Memory Registers	регістр 4	2	2	0
+Memory Registers	регістр 2	2	2	0
+Memory Registers	регістр 1	2	2	0
+Memory Registers	регістр 0	2	2	0
+"R9"" is the abbreviation for ""Register 9"	"R8R9"" is the abbreviation for ""Register 9"	7	7	0
+"R8"" is the abbreviation for ""Register 8"	"R7R8"" is the abbreviation for ""Register 8"	7	7	0
+1 place	_1 позицію	2	2	0
+Add	Додати	1	1	0
++	+	1	1	0
+Reciprocal [r]	Обернена величина	2	2	0
+Integer portion	Ціла частина	2	2	0
+Int	Ціл	1	1	0
+Fractional portion	Дробова частина	2	2	0
+Frac	Дроб	1	1	0
+Absolute value [u]	Абсолютне значення [u]	3	3	0
+Abs	_BAR_x_BAR_	1	1	0
+Square root [s]	Квадратний корінь [s]	3	3	0
+Right bracket	Права дужка	2	2	0
+End group of calculations	Кінець групи обчислень [)]	4	4	0
+)	)	1	1	0
+Percentage	Відсоток	1	1	0
+%	%	1	1	0
+1/x	1/x	1	1	0
+Left bracket	Ліва дужка	2	2	0
+Subtract	Відняти	1	1	0
+Start group of calculations	Початок групи обчислень [(]	4	4	0
+(	(	1	1	0
+Clear entry	Очистити елемент	2	2	0
+CE	Очщ	1	1	0
+Clear	Очистити	1	1	0
+Clr	Скас	1	1	0
+Change sign [c]	Змінити знак [C]	3	3	0
+Backspace	Повернутись	1	1	0
+Bksp	Видл	1	1	0
+>	>	1	1	0
+Bitwise XNOR [n]	Побітне XNOR [{]	3	3	0
+Set accuracy from 0 to 9 numeric places [a]	(Встановити точність від 0 до 9 числових позицій [A])	9	9	0
+_Inv	_Звор	1	1	0
+Exch	Обм	1	1	0
+Retrieve memory register to display [R]	Викликати значення з пам'яті на індикатор	6	6	0
+Rcl	Викл	1	1	0
+Sto	Зап	1	1	0
+Multiply	Помножити	1	1	0
+Numeric 3	Цифра 3	2	2	0
+3	3	1	1	0
+Calculate result	Обчислити результат	2	2	0
+=	=	1	1	0
+Numeric point	Числова кома	2	2	0
+Numeric 0	Цифра 0	2	2	0
+Numeric 2	Цифра 2	2	2	0
+2	2	1	1	0
+Numeric 1	Цифра 1	2	2	0
+1	1	1	1	0
+Divide	Поділити	1	1	0
+Numeric 6	Цифра 6	2	2	0
+6	6	1	1	0
+Numeric 5	Цифра 5	2	2	0
+5	5	1	1	0
+Numeric 9	Цифра 9	2	2	0
+9	9	1	1	0
+Numeric 8	Цифра 8	2	2	0
+8	8	1	1	0
+Numeric 7	Цифра 7	2	2	0
+7	7	1	1	0
+Numeric 4	Цифра 4	2	2	0
+4	4	1	1	0
+2	x2	1	1	0
+x2	x2	1	1	0
+Square [@]	Квадрат [@]	2	2	0
+(script)	(скрипт)	1	1	0

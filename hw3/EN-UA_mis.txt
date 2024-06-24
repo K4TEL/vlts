@@ -1,0 +1,32 @@
+en_US_text	uk_text	en_US_len	uk_len	diff_len
+Abigail Brady <morwen\@evilmagi_c\.org> Bastien Nocera <hadess\@hadess\.net> Gareth Owen <gowen72\@yahoo\.com>	Максим Дзюманенко <dziumanenko\@gmail\.com>	9	3	6
+Kilojoule-to-British-thermal-unit conversion factor	Коефіцієнт перетворення кілоджоулів у британські термічні одиниці	3	7	4
+Cubic-centimeter-to-cubic-inch conversion factor	Коефіцієнт перетворення куб. сантиметрів у куб. дюйми	3	7	4
+Clear displayed value and any partial calculation	Очищає відображуване значення та будь-які частково виконані операції [Shift Delete]	7	10	3
+Abigail Brady <morwen\@evilmagi_c\.org> Bastien Nocera <hadess\@hadess\.net> Gareth Owen <gowen72\@yahoo\.com>	Кирило Полежаєв <polezhajev\@ukr\.net> Максим Дзюманенко <dziumanenko\@gmail\.com>	9	6	3
+Set trigonometric type to degrees	Тригонометричний тип	5	2	3
+Numeric point	Числова кома [. або ,]	2	5	3
+Malformed expression	Неправильний вираз на знаку «%s»	2	5	3
+Retrieve from register	Викликати значення з пам'яті на індикатор	3	6	3
+unit-symbols	%s морська миляunit-symbols	1	3	2
+Hexadecimal digit D	Шістнадцятковий	3	1	2
+Cleared display, prefix without an operator is not allowed	Дисплей очищений, префікс без оператора не допускається	9	7	2
+Sum-of-the years'-digits depreciation [Y]	Амортизація Сума-Років-Цифр	4	2	2
+10 to the power of displayed value [}]	10 у степені показаного числа [}]	8	6	2
+e to the power of displayed value [{]	e в степені показаного числа [{]	8	6	2
+Set display type to engineering format	Встановлює інженерний тип відображення	6	4	2
+Calculator	Калькулятор - Розширений	1	3	2
+Base 10 log [G]	Десятковий логарифм	4	2	2
+Raise displayed value to the power of y [y]	Підносить відображуване значення у степінь y [^]	9	7	2
+Gram-to-ounce conversion factor	Коефіцієнт перетворення граму в унцію	3	5	2
+Calculator	Калькулятор - Фінансовий	1	3	2
+Centimeter-to-inch conversion factor	Коефіцієнт перетворення сантиметрів у дюйми	3	5	2
+Calculator	Калькулятор — Розширений	1	3	2
+Set display type to scientific format	Встановлює науковий тип відображення	6	4	2
+Raise displayed value to the power of y [y]	Підносить відображуване значення у степінь y [o]	9	7	2
+e to the power of displayed value [{]	e в степені показаного числа [H]	8	6	2
+Bad write position	Програми	3	1	2
+TTL expired	Завершився строк дії TTL	2	4	2
+Kilometer-to-mile conversion factor	Коефіцієнт перетворення кілометрів у милі	3	5	2
+10 to the power of displayed value [}]	10 у степені показаного числа [G]	8	6	2
+e to the power of displayed value [{]	e в степені показаного числа [N]	8	6	2

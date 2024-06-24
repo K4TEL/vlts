@@ -1,0 +1,412 @@
+	data.csv	size: 362025	columns: Index(['ID', 'Language_ID', 'Parameter_ID', 'Value', 'Code_ID',
+       'Language_Name', 'Macroarea', 'Latitude', 'Longitude', 'Family_name',
+       'level', 'Parameter_Name', 'Boundness', 'Flexivity',
+       'Gender_or_Noun_Class', 'Locus_of_Marking', 'Word_Order',
+       'Informativity', 'Code_Description'],
+      dtype='object')
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 362025 entries, 0 to 362024
+Data columns (total 19 columns):
+ #   Column                Non-Null Count   Dtype  
+---  ------                --------------   -----  
+ 0   ID                    362025 non-null  object 
+ 1   Language_ID           362025 non-null  object 
+ 2   Parameter_ID          362025 non-null  object 
+ 3   Value                 362025 non-null  int64  
+ 4   Code_ID               362025 non-null  object 
+ 5   Language_Name         362025 non-null  object 
+ 6   Macroarea             361916 non-null  object 
+ 7   Latitude              361916 non-null  float64
+ 8   Longitude             361916 non-null  float64
+ 9   Family_name           348117 non-null  object 
+ 10  level                 362025 non-null  object 
+ 11  Parameter_Name        362025 non-null  object 
+ 12  Boundness             152176 non-null  float64
+ 13  Flexivity             58317 non-null   float64
+ 14  Gender_or_Noun_Class  36494 non-null   float64
+ 15  Locus_of_Marking      70600 non-null   float64
+ 16  Word_Order            20857 non-null   float64
+ 17  Informativity         141430 non-null  object 
+ 18  Code_Description      362025 non-null  object 
+dtypes: float64(7), int64(1), object(11)
+memory usage: 52.5+ MB
+None
+	data.csv	empty values per column:
+ID                           0
+Language_ID                  0
+Parameter_ID                 0
+Value                        0
+Code_ID                      0
+Language_Name                0
+Macroarea                  109
+Latitude                   109
+Longitude                  109
+Family_name              13908
+level                        0
+Parameter_Name               0
+Boundness               209849
+Flexivity               303708
+Gender_or_Noun_Class    325531
+Locus_of_Marking        291425
+Word_Order              341168
+Informativity           220595
+Code_Description             0
+dtype: int64
+	data.csv	unique values per column:
+ID                      362025
+Language_ID               2467
+Parameter_ID               195
+Value                        4
+Code_ID                    398
+Language_Name             2467
+Macroarea                    6
+Latitude                  2426
+Longitude                 2431
+Family_name                215
+level                        3
+Parameter_Name             195
+Boundness                    3
+Flexivity                    1
+Gender_or_Noun_Class         2
+Locus_of_Marking             2
+Word_Order                   2
+Informativity               54
+Code_Description            18
+dtype: int64
+Column: Value	 unique values count
+	0:	242782
+	1:	112315
+	2:	5410
+	3:	1518
+Column: Macroarea	 unique values count
+	Papunesia:	104741
+	Eurasia:	92593
+	Africa:	78394
+	North America:	38497
+	South America:	30608
+	Australia:	17083
+	nan:	109
+Column: level	 unique values count
+	language:	351157
+	dialect:	10759
+	family:	109
+Column: Boundness	 unique values count
+	nan:	209849
+	1.0:	111594
+	0.0:	29984
+	0.5:	10598
+Column: Flexivity	 unique values count
+	nan:	303708
+	1.0:	58317
+Column: Gender_or_Noun_Class	 unique values count
+	nan:	325531
+	1.0:	29886
+	0.0:	6608
+Column: Locus_of_Marking	 unique values count
+	nan:	291425
+	1.0:	38480
+	0.0:	32120
+Column: Word_Order	 unique values count
+	nan:	341168
+	1.0:	11447
+	0.0:	9410
+Column: Code_Description	 unique values count
+	absent:	242706
+	present:	106548
+	SV:	1827
+	N - ANM:	1237
+	N-Num:	1087
+	N-Dem:	1066
+	Possessor-Possessed:	1040
+	both:	1015
+	Dem-N:	921
+	Num-N:	881
+	Possessed-Possessor:	879
+	N-UQ:	795
+	UQ-N:	584
+	ANM - N:	514
+	both.:	503
+	VS:	346
+	they cannot be used attributively:	45
+	no UQ:	31
+	param_space.csv	size: 2467	columns: Index(['Language_ID', 'Macroarea_Code', 'Language_Name', 'Family_name_Code',
+       'level_code', 'Latitude', 'Longitude', 'GB030', 'GB028', 'GB131',
+       ...
+       'GB273', 'GB270', 'GB403', 'GB301', 'GB402', 'GB204', 'GB422', 'GB421',
+       'GB296', 'GB401'],
+      dtype='object', length=202)
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2467 entries, 0 to 2466
+Columns: 202 entries, Language_ID to GB401
+dtypes: float64(197), int64(3), object(2)
+memory usage: 3.8+ MB
+None
+	param_space.csv	empty values per column:
+Language_ID            0
+Macroarea_Code         0
+Language_Name          0
+Family_name_Code       0
+level_code             0
+                    ... 
+GB204               1340
+GB422               1347
+GB421               1356
+GB296               1494
+GB401               1626
+Length: 202, dtype: int64
+	param_space.csv	unique values per column:
+Language_ID         2467
+Macroarea_Code         7
+Language_Name       2467
+Family_name_Code     216
+level_code             3
+                    ... 
+GB204                  2
+GB422                  2
+GB421                  2
+GB296                  2
+GB401                  2
+Length: 202, dtype: int64
+	corr_matrix.csv	size: 198	columns: Index(['Macroarea_Code', 'Family_name_Code', 'level_code', 'GB030', 'GB028',
+       'GB131', 'GB042', 'GB133', 'GB031', 'GB092',
+       ...
+       'GB273', 'GB270', 'GB403', 'GB301', 'GB402', 'GB204', 'GB422', 'GB421',
+       'GB296', 'GB401'],
+      dtype='object', length=198)
+<class 'pandas.core.frame.DataFrame'>
+Index: 198 entries, Macroarea_Code to GB401
+Columns: 198 entries, Macroarea_Code to GB401
+dtypes: float64(198)
+memory usage: 307.8+ KB
+None
+	top_16_corr.csv	size: 32	columns: Index(['GB092', 'GB299', 'GB107', 'GB115', 'GB089', 'GB155', 'GB314', 'GB171',
+       'Family_name_Code', 'GB071', 'GB114', 'Macroarea_Code', 'GB090',
+       'GB051', 'GB074', 'GB091', 'GB020', 'GB133', 'GB030', 'GB072', 'GB113',
+       'GB131', 'GB186', 'GB082', 'GB073', 'GB130', 'GB083', 'GB070', 'GB022',
+       'GB170', 'GB315', 'GB172'],
+      dtype='object')
+<class 'pandas.core.frame.DataFrame'>
+Index: 32 entries, GB092 to GB172
+Data columns (total 32 columns):
+ #   Column            Non-Null Count  Dtype  
+---  ------            --------------  -----  
+ 0   GB092             32 non-null     float64
+ 1   GB299             32 non-null     float64
+ 2   GB107             32 non-null     float64
+ 3   GB115             32 non-null     float64
+ 4   GB089             32 non-null     float64
+ 5   GB155             32 non-null     float64
+ 6   GB314             32 non-null     float64
+ 7   GB171             32 non-null     float64
+ 8   Family_name_Code  32 non-null     float64
+ 9   GB071             32 non-null     float64
+ 10  GB114             32 non-null     float64
+ 11  Macroarea_Code    32 non-null     float64
+ 12  GB090             32 non-null     float64
+ 13  GB051             32 non-null     float64
+ 14  GB074             32 non-null     float64
+ 15  GB091             32 non-null     float64
+ 16  GB020             32 non-null     float64
+ 17  GB133             32 non-null     float64
+ 18  GB030             32 non-null     float64
+ 19  GB072             32 non-null     float64
+ 20  GB113             32 non-null     float64
+ 21  GB131             32 non-null     float64
+ 22  GB186             32 non-null     float64
+ 23  GB082             32 non-null     float64
+ 24  GB073             32 non-null     float64
+ 25  GB130             32 non-null     float64
+ 26  GB083             32 non-null     float64
+ 27  GB070             32 non-null     float64
+ 28  GB022             32 non-null     float64
+ 29  GB170             32 non-null     float64
+ 30  GB315             32 non-null     float64
+ 31  GB172             32 non-null     float64
+dtypes: float64(32)
+memory usage: 8.2+ KB
+None
+
+Correlations for GB092
+	Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+0.91 - Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+0.55 - Family_name_Code
+
+Correlations for GB299
+	Can standard negation be marked by a non-inflecting word ("auxiliary particle")?
+0.56 - Can standard negation be marked by an affix, clitic or modification of the verb?
+
+Correlations for GB107
+	Can standard negation be marked by an affix, clitic or modification of the verb?
+0.56 - Can standard negation be marked by a non-inflecting word ("auxiliary particle")?
+
+Correlations for GB115
+	Is there a phonologically bound reciprocal marker on the verb?
+0.62 - Is there a phonologically bound reflexive marker on the verb?
+
+Correlations for GB089
+	Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+0.88 - Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+0.6 - Family_name_Code
+
+Correlations for GB155
+	Are causatives formed by affixes or clitics on verbs?
+0.68 - Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?
+
+Correlations for GB314
+	Can augmentative meaning be expressed productively by a shift of gender/noun class?
+0.74 - Can diminutive meaning be expressed productively by a shift of gender/noun class?
+
+Correlations for GB171
+	Can an adnominal demonstrative agree with the noun in gender/noun class?
+0.75 - Can an adnominal property word agree with the noun in gender/noun class?
+0.71 - Can an adnominal numeral agree with the noun in gender/noun class?
+0.65 - Family_name_Code
+0.55 - Is there a gender/noun class system where animacy is a factor in class assignment?
+0.51 - Is there a gender distinction in independent 3rd person pronouns?
+0.5 - Can an adnominal demonstrative agree with the noun in number?
+
+Correlations for Family_name_Code
+	Family_name_Code
+0.81 - Macroarea_Code
+0.75 - Are there prepositions?
+0.71 - Is a pragmatically unmarked constituent order verb-final for transitive clauses?
+0.69 - Is there a gender/noun class system where sex is a factor in class assignment?
+0.66 - Can the relative clause precede the noun?
+0.66 - Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause ("switch reference")?
+0.66 - Can an adnominal property word agree with the noun in gender/noun class?
+0.66 - Is there a body-part tallying system?
+0.65 - Can an adnominal demonstrative agree with the noun in gender/noun class?
+0.65 - Is there a decimal numeral system?
+
+Correlations for GB071
+	Are there morphological cases for pronominal core arguments (i.e. S/A/P)?
+0.65 - Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?
+0.57 - Is there any accusative alignment of flagging?
+0.54 - Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?
+
+Correlations for GB114
+	Is there a phonologically bound reflexive marker on the verb?
+0.62 - Is there a phonologically bound reciprocal marker on the verb?
+0.51 - Family_name_Code
+
+Correlations for Macroarea_Code
+	Macroarea_Code
+0.81 - Family_name_Code
+0.71 - level_code
+0.56 - Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?
+0.53 - Is there a copula for predicate nominals?
+0.52 - Is there productive overt morphological singular marking on nouns?
+0.51 - Is there a decimal numeral system?
+0.51 - Can adnominal possession be marked by a prefix on the possessed noun?
+
+Correlations for GB090
+	Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+0.91 - Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?
+0.56 - Family_name_Code
+
+Correlations for GB051
+	Is there a gender/noun class system where sex is a factor in class assignment?
+0.69 - Family_name_Code
+0.6 - Is there a gender distinction in independent 3rd person pronouns?
+
+Correlations for GB074
+	Are there prepositions?
+0.75 - Family_name_Code
+0.7 - Is a pragmatically unmarked constituent order verb-final for transitive clauses?
+0.59 - Are there postpositions?
+0.56 - What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?
+0.52 - Is a pragmatically unmarked constituent order verb-medial for transitive clauses?
+
+Correlations for GB091
+	Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+0.88 - Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?
+0.62 - Family_name_Code
+
+Correlations for GB020
+	Are there definite or specific articles?
+0.55 - Are there prenominal articles?
+0.53 - Are there postnominal articles?
+
+Correlations for GB133
+	Is a pragmatically unmarked constituent order verb-final for transitive clauses?
+0.71 - Family_name_Code
+0.7 - Are there prepositions?
+0.61 - Is a pragmatically unmarked constituent order verb-medial for transitive clauses?
+0.6 - Are there postpositions?
+0.54 - What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?
+
+Correlations for GB030
+	Is there a gender distinction in independent 3rd person pronouns?
+0.6 - Is there a gender/noun class system where sex is a factor in class assignment?
+0.58 - Family_name_Code
+0.51 - Can an adnominal demonstrative agree with the noun in gender/noun class?
+
+Correlations for GB072
+	Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?
+0.63 - Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?
+0.62 - Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?
+0.54 - Family_name_Code
+
+Correlations for GB113
+	Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?
+0.68 - Are causatives formed by affixes or clitics on verbs?
+
+Correlations for GB131
+	Is a pragmatically unmarked constituent order verb-initial for transitive clauses?
+0.82 - What is the pragmatically unmarked order of S and V in intransitive clauses?
+0.51 - Family_name_Code
+
+Correlations for GB186
+	Can an article agree with the noun in number?
+0.57 - Can an article agree with the noun in gender/noun class?
+
+Correlations for GB082
+	Is there overt morphological marking of present tense on verbs?
+0.58 - Is there overt morphological marking on the verb dedicated to past tense?
+
+Correlations for GB073
+	Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?
+0.62 - Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?
+0.54 - Are there morphological cases for pronominal core arguments (i.e. S/A/P)?
+0.54 - Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?
+
+Correlations for GB130
+	What is the pragmatically unmarked order of S and V in intransitive clauses?
+0.82 - Is a pragmatically unmarked constituent order verb-initial for transitive clauses?
+
+Correlations for GB083
+	Is there overt morphological marking on the verb dedicated to past tense?
+0.58 - Is there overt morphological marking of present tense on verbs?
+0.53 - Family_name_Code
+0.53 - Is there overt morphological marking on the verb dedicated to future tense?
+
+Correlations for GB070
+	Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?
+0.65 - Are there morphological cases for pronominal core arguments (i.e. S/A/P)?
+0.64 - Family_name_Code
+0.63 - Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?
+0.56 - Can adnominal possession be marked by a suffix on the possessor?
+0.54 - Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?
+
+Correlations for GB022
+	Are there prenominal articles?
+0.55 - Are there definite or specific articles?
+
+Correlations for GB170
+	Can an adnominal property word agree with the noun in gender/noun class?
+0.75 - Can an adnominal demonstrative agree with the noun in gender/noun class?
+0.75 - Can an adnominal numeral agree with the noun in gender/noun class?
+0.66 - Family_name_Code
+0.58 - Can an adnominal property word agree with the noun in number?
+0.52 - Is there productive overt morphological singular marking on nouns?
+0.52 - Is there a gender/noun class system where animacy is a factor in class assignment?
+0.51 - Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?
+
+Correlations for GB315
+	Can diminutive meaning be expressed productively by a shift of gender/noun class?
+0.74 - Can augmentative meaning be expressed productively by a shift of gender/noun class?
+0.5 - Can an adnominal numeral agree with the noun in gender/noun class?
+
+Correlations for GB172
+	Can an article agree with the noun in gender/noun class?
+0.57 - Can an article agree with the noun in number?

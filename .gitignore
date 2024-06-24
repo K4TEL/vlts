@@ -1,0 +1,7 @@
+/wals-v2020.3/
+/grambank-v1.0.3/
+/env/
+/.idea/
+
+*.zip
+/hw2/CogNet-v2.0.tsv
